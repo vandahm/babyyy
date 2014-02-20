@@ -5,6 +5,7 @@ This is a tiny project to demonstrate Chef and Vagrant to Wyatt, and possibly ot
 ## Installation ##
 
     git clone https://github.com/vandahm/babyyy.git
+    php composer.phar install
     cd babyyy
     vagrant up
     echo '192.168.90.131 wyatt.dev' | sudo tee -a /etc/hosts
