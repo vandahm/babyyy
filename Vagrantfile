@@ -28,10 +28,10 @@ Vagrant.configure("2") do |config|
 
     chef.json.merge!({
       "mysql" => {
-          "server_root_password" => "123456",
-          "server_debian_password" => "123456",
-          "server_repl_password" => "123456",
-          "bind_address" => "0.0.0.0",
+        "server_root_password" => "123456",
+        "server_debian_password" => "123456",
+        "server_repl_password" => "123456",
+        "bind_address" => "0.0.0.0",
       },
 
       "php-project" => {
