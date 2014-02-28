@@ -12,8 +12,6 @@ This is a tiny project to demonstrate Chef and Vagrant to Wyatt, and possibly ot
 
 Now, visit [http://wyatt.dev/][1] in your browser.
 
-See? Was that so fucking hard?
-
 [1]: http://wyatt.dev/
 
 
